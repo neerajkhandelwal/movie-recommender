@@ -1,0 +1,15 @@
+.messagebox{
+	height: auto;
+	width: 350px;
+	position: fixed;
+	z-index: 1000;
+	background-color: #e3e3e3;
+	opacity: .9;
+	padding: 10px 10px;
+	text-align: left;
+	display: none;
+}
+
+#messagebox-button-p{
+	text-align: right;
+}
